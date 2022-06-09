@@ -1,6 +1,6 @@
 👋 Hi, I’m Mary Bayt  
   
-👀 I’m interested in web development (yes, I love CSS)  
+👀 I’m interested in web development
 
 🌱 I’m currently learning javascript and responsive layout  
 
