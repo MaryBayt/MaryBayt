@@ -1,7 +1,7 @@
-👋 Hi, I’m Mary Bayt  
-  
-👀 I’m interested in web development
+👋 Hi, I’m Mary Bayt
 
-🌱 I’m currently learning javascript and responsive layout  
+🌱 Moscow raised, Haifa based
+  
+👀 I’m interested in web development and currently learning javascript and responsive layout  
 
 📫 Reach me in Telegram @beckettmann 
