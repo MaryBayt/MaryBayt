@@ -2,6 +2,6 @@
 
 🌱 Moscow raised, Haifa based
   
-👀 I’m interested in web development and currently learning javascript and responsive layout  
+👀 I’m interested in web development and currently learning advanced javascript  
 
 📫 Reach me in Telegram @beckettmann 
