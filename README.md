@@ -22,4 +22,4 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryBayt&layout=compact)](https://github.com/MaryBayt)
-<br>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryBayt)](https://github.com/MaryBayt/github-readme-stats)
