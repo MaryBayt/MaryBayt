@@ -21,6 +21,5 @@
 
 
 ---
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryBayt)]([https://github.com/MaryBayt/github-readme-stats])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryBayt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryBayt&layout=compact)]([https://github.com/MaryBayt])
