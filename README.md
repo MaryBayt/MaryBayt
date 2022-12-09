@@ -2,7 +2,7 @@
 
 <h3 align="center">🌱 Moscow raised, Haifa based</h3>
   
-<h3 align="center">I’m interested in web development and currently learning advanced javascript, OOP and Webpack</h3>
+<h3 align="center">I’m interested in web development and currently learning advanced Javascript and React</h3>
 
 #### My skills
 ![HTML5](https://img.shields.io/badge/-HTML5-141130?style=for-the-badge&logo=HTML5&logoColor=FF0000)
